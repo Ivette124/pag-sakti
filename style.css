@@ -190,9 +190,11 @@ a, p, figure{
 #noticias img{
     margin: 0 1em;
 }
-#contacto h1
-{
-text-align: center;
+#contacto h1{
+    text-align: center;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid white;
 }
 
 #contacto{
